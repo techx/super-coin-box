@@ -1,6 +1,6 @@
 # Super Coin Box
 
-A simple game built with Phaser for Blueprint 2024's game development track.
+A simple game built with Phaser for Blueprint 2025's game development track.
 
 ## Getting Started
 
